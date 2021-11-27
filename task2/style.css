@@ -1,0 +1,23 @@
+
+section {
+  height: 300px;
+  padding: 15% 30%;
+}
+
+.all {
+	width: 100%;
+	height: 100%;
+	border: 0.01spx solid;
+	box-shadow: inset 2px 2px 5px rgba(154, 147, 140, 0.5), 1px 1px 5px rgba(255, 255, 255, 1);
+}
+
+.in {
+	padding: 5% 0;
+	text-align: center;
+}
+
+body {
+  font-family: monospace;
+  font-size: 1.1rem;
+  background: #e6e3df;
+}
